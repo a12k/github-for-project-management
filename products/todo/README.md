@@ -13,3 +13,4 @@ An orderly system is required to track things that need to be done and their sta
 
 # Test Strategy
 All Functional Requirements shall be tested using Nightwatch and executed using a Continuous Integration system
+done
